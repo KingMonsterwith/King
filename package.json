@@ -70,7 +70,7 @@
 		"pastebin-api": "^5.1.5",
 		"path": "",
 		"pidusage": "^3.0.0",
-		"ping-monitor": "^0.6.2",
+		"ping-monitor": "^0.8.0",
 		"random-cat-img": "^1.0.4",
 		"readline": "",
 		"request": "^2.88.2",

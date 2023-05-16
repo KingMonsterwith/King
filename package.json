@@ -66,7 +66,7 @@
 		"node-opus": "^0.3.3",
 		"node-schedule-tz": "^1.2.1-4",
 		"npmlog": "",
-		"opusscript": "0.0.8",
+		"opusscript": "0.1.0",
 		"pastebin-api": "^5.1.5",
 		"path": "",
 		"pidusage": "^3.0.0",

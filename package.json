@@ -87,7 +87,7 @@
 		"w5-textmaker": "^1.0.8",
 		"wikijs": "^6.3.3",
 		"youtube-search-api": "^1.1.0",
-		"youtubei.js": "^1.4.5",
+		"youtubei.js": "^2.0.0",
 		"ytdl-core": "^4.11.2",
 		"zalgo": "0.0.1"
 	}

@@ -36,7 +36,7 @@
 		"canvagif": "^0.1.14",
 		"canvas": "^2.9.3",
 		"chalk": "^4.1.2",
-		"cheerio": "^0.22.0",
+		"cheerio": "^1.0.0",
 		"child_process": "^1.0.2",
 		"colors": "^1.4.0",
 		"cron": "^2.1.0",

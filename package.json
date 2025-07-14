@@ -59,7 +59,7 @@
 		"mal-scraper": "^2.11.4",
 		"minimist": "",
 		"moment-timezone": "^0.5.37",
-		"movie-info": "^2.0.5",
+		"movie-info": "^3.0.0",
 		"ms": "",
 		"nhentai-api": "^3.4.3",
 		"node-cron": "^3.0.2",
